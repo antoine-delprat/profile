@@ -7,7 +7,9 @@ body {
 }
 
 #main {
-  background-color: #e85d04;
+  /* background-color: #e85d04; */
+  background-color: white;
+
   text-align: center;
   border: solid;
   border-radius: 65px;
